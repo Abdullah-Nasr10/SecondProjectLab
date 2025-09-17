@@ -4,3 +4,7 @@ hello git
 i'm feature One
 
 feature Two
+
+
+
+conflict Feature Two
