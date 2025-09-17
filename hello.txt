@@ -6,5 +6,5 @@ i'm feature One
 Feature One
 
 
-
+conflict Feature Two
 conflict Feature Three
