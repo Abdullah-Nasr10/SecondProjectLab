@@ -3,8 +3,8 @@ hello git
 
 i'm feature One
 
-feature Two
-
+Feature One
 
 
 conflict Feature Two
+conflict Feature Three
